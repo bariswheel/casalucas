@@ -1,0 +1,50 @@
+Apples: 1.49
+Bananas: 0.69
+Oranges: 1.29
+Strawberries: 3.99
+Blueberries: 2.99
+Raspberries: 4.49
+Grapes: 2.79
+Pineapple: 2.49
+Mangoes: 1.99
+Peaches: 1.89
+Plums: 1.59
+Cherries: 4.99
+Watermelon: 5.49
+Cantaloupe: 3.29
+Honeydew: 3.19
+Lettuce: 1.29
+Spinach: 2.49
+Kale: 2.29
+Broccoli: 1.79
+Cauliflower: 2.09
+Carrots: 1.09
+Celery: 1.49
+Cucumbers: 0.99
+Tomatoes: 1.59
+Bell Peppers: 1.89
+Onions: 0.89
+Garlic: 0.59
+Potatoes: 3.49
+Sweet Potatoes: 2.99
+Mushrooms: 2.69
+Zucchini: 1.39
+Eggplant: 1.69
+Asparagus: 3.99
+Corn: 2.49
+Green Beans: 2.19
+Rice: 4.99
+Pasta: 2.29
+Bread: 2.79
+Milk: 3.49
+Eggs: 2.99
+Cheddar Cheese: 4.29
+Yogurt: 1.19
+Butter: 3.59
+Olive Oil: 6.99
+Chicken Breast: 6.49
+Ground Beef: 5.99
+Salmon Fillet: 9.99
+Canned Beans: 1.09
+Peanut Butter: 3.79
+Coffee: 7.49
